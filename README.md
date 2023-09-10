@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I demonstrated cloning a repository, creating multiple html documents, adding links to different pages, commiting my changes using git with proper commit message practices, creating ordered and unordered lists, and adding images in my html pages. 
